@@ -10,3 +10,5 @@ the purpose of this repo is to make a unique & scriptable working env.
 # data strategy
 	* public data goes to github
 	* private data goes to dropbox in the master disk.
+    * .gnupg save in dropbox, link to home
+	* private data crypt with gnupg(.gpg)

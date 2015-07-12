@@ -80,3 +80,6 @@ If set/leave chinese-font-size to nil, it will follow english-font-size"
 
 
 (add-hook 'find-file-hooks 'turn-on-flyspell)
+
+					; installed packages:
+					; youdao
